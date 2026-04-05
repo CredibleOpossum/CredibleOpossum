@@ -10,6 +10,3 @@ In addition to these, I find great joy in reverse engineering and memory hacking
 
 - 📫 How to reach me: I prefer email, so feel free to reach out at CredibleOpossum@protonmail.com.
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on: The Gates, an exciting developer-oriented platform that allows you to release Godot games to be played over the internet! You can install it from [Flathub](https://flathub.org/apps/io.itch.nordup.TheGates).
-
-Let's connect and collaborate on fascinating projects!
